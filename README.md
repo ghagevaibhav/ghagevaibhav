@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Hi, I'm **Vaibhav Ghage**, a software engineer with a focus on backend development and building reliable systems. I have my **Bachelor's in Computer Science** from IIIT Pune and experience in programming, problem-solving, and creating software solutions.
+Hi, I'm **Vaibhav Ghage**, a software engineer with a focus on backend development and building reliable systems. I have my **Bachelor's in Computer Science** from [IIIT Pune](https://github.com/IIIT-Pune) and experience in programming, problem-solving, and creating software solutions.
 
 ## Beyond Code 🌟
 - **Achievements**: Vice-captain of the volleyball team, securing 2nd place at Inter IIIT Sports Meet 2023.
